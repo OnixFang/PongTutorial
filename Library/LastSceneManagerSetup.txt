@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scene.unity
+- path: D:/Twily/Documents/Programing/Unity/Test/Assets/scene.unity
   isLoaded: 1
   isActive: 1
